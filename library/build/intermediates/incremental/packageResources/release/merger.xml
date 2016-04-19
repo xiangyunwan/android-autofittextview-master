@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android_github\android-autofittextview-master\library\src\main\res"><file path="D:\android_github\android-autofittextview-master\library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="AutofitTextView">
+        <!-- Minimum size of the text. -->
+        <attr format="dimension" name="minTextSize"/>
+        <!-- Amount of precision used to calculate the correct text size to fit within its
+        bounds. Lower precision is more precise and takes more time. -->
+        <attr format="float" name="precision"/>
+        <!-- Defines whether to automatically resize text to fit to the view's bounds. -->
+        <attr format="boolean" name="sizeToFit"/>
+    </declare-styleable></file></source><source path="D:\android_github\android-autofittextview-master\library\build\generated\res\rs\release"/><source path="D:\android_github\android-autofittextview-master\library\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="D:\android_github\android-autofittextview-master\library\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AutofitTextView"><attr format="dimension" name="minTextSize"/><attr format="float" name="precision"/><attr format="boolean" name="sizeToFit"/></declare-styleable></configuration></mergedItems></merger>
