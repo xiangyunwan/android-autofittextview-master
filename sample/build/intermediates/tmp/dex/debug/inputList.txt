@@ -1,0 +1,2 @@
+D:\android_github\android-autofittextview-master\sample\build\intermediates\classes\debug
+D:\android_github\android-autofittextview-master\sample\build\intermediates\pre-dexed\debug\classes-4774e4758e674f420d29170e50460737877e3e80.jar
